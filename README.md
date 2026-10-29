@@ -1,22 +1,33 @@
 # Hi, I'm CERNOS II 👋
 
-I build **[TMail](https://github.com/cernos2/TMail)** — a lightweight, self-hosted mail server with a
-modern Gmail-like webmail, made for companies where several people work with the same mailboxes.
+I work on artificial intelligence research and share software that I hope can help people and make the world a little better.
 
-- 📨 **Complete mail server in one command**: Postfix, Dovecot, Rspamd, ClamAV, Let's Encrypt, backups
-- 👥 **Shared mailboxes for teams**: one login, many mailboxes; replies go from the right address;
-  everyone sees who answered
-- 🤖 **AI assistant** with any OpenAI-compatible API (OpenAI, OpenRouter or your own model)
-- 🌍 **100 interface languages**
-- 🪶 **Light**: runs on **2 GB RAM** — far below what other self-hosted mail suites need
+### What I'm working on
 
-⭐ If TMail is useful to you, a star on the repository helps others find it.
+- **AI architecture** — researching and developing my own architecture, which I plan to present in **2027**.
+- **P2P messenger** — working on a next-generation peer-to-peer messenger. I'll share more as the project develops.
+
+### In the meantime, meet TMail
+
+**[TMail](https://github.com/cernos2/TMail)** is a self-hosted mail server with a modern web interface, shared mailboxes for teams, and an optional AI assistant.
+
+It's the email software I use every day, and I'm sharing it here for anyone who may find it useful.
+
+Feedback and suggestions are welcome. If TMail helps you, consider giving the repository a ⭐.
 
 ---
 
 ### По-русски
 
-Я разрабатываю **[TMail](https://github.com/cernos2/TMail)** — лёгкий почтовый сервер с удобной
-веб-почтой, который ставится на свой сервер одной командой. Он сделан для компаний, где с одной
-почтой работают несколько сотрудников: один вход на все ящики, ответ уходит с нужного адреса, видно,
-кто ответил. ИИ-помощник, антивирус, 100 языков интерфейса, работает от 2 ГБ памяти.
+Занимаюсь исследованиями в области искусственного интеллекта и делюсь программным обеспечением, которое, надеюсь, помогает людям и делает мир немного лучше.
+
+**Над чем я работаю:**
+
+- **Архитектура ИИ** — исследую и разрабатываю собственную архитектуру, которую планирую представить в **2027 году**.
+- **P2P-мессенджер** — работаю над мессенджером нового поколения. Буду рассказывать о нём по мере развития проекта.
+
+**А пока — [TMail](https://github.com/cernos2/TMail):** почтовый сервер для самостоятельного размещения, с удобным веб-интерфейсом, общими ящиками для команды и опциональным ИИ-помощником.
+
+Это инструмент для работы с почтой, которым я сам пользуюсь каждый день. Делюсь им здесь — возможно, он пригодится и вам.
+
+Буду рад отзывам и предложениям. Если TMail оказался полезен, можно поддержать проект звездой ⭐.
